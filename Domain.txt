@@ -2344,8 +2344,6 @@ tmrobo.org
 hdr-group.org
 hdr-group.info
 hdr-group.net
-185.28.22.22:81
-195.226.218..234:80
 wsslupdate.org
 d3dupdate.com
 mserrep.org
@@ -2359,8 +2357,6 @@ vp9codec.com
 vp9codec.net
 biosysltd.com
 biosysltd.org
-185.28.22.22
-93.188.161.17:8000
 update.ultimate-discounter.com
 udiscount.net
 ultimate-discounter.org
